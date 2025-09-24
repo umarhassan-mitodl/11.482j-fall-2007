@@ -43,7 +43,7 @@ Background on regional input-output modeling and modeling assumptions
 
 Fingleton, Bernard, Danilo Camargo Igliori, and Barry Moore. "Employment Growth of Small High-technology Firms and the Role of Horizontal Clustering: Evidence from Computing Services and R&D in Great Britain, 1991-2000." *Urban Studies* 41, no. 4 (2004): 773-799.
 
-Smirnov, Oleg, and Alena Smirnova. "An Assessment of the Economic Base of Distressed and Near-Distressed Counties in Appalachia: Report to the Appalachian Regional Commission ([PDF - 1.3MB](http://www.arc.gov/assets/research_reports/sourcesofgrowth_vol1_full.pdf)) ." Bruton Center for Development Studies, The University of Texas at Dallas, 2000.
+Smirnov, Oleg, and Alena Smirnova. "An Assessment of the Economic Base of Distressed and Near-Distressed Counties in Appalachia: Report to the Appalachian Regional Commission ({{% resource_link "ecb46a1f-ee6d-4961-b703-081e8fb47402" "PDF - 1.3MB" %}}) ." Bruton Center for Development Studies, The University of Texas at Dallas, 2000.
 
 Andersson, Ake, and David F. Batten. "Creative Nodes, Logistical Networks, and the Future of the Metropolis." *Transportation* 14, no. 4 (1987): 281-293.
 
@@ -51,9 +51,9 @@ Miller, Ronald E. "Regional and Interregional Input-Output Analysis." In *Method
 
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112031) Krugman, Paul. [*Development, Geography, and Economic Theory*](https://mitpress.mit.edu/9780262112031). Cambridge, MA: The MIT Press, 1995. ISBN: 9780262112031. Read "Geography Lost and Found," pp. 31-65 and "Appendix," pp. 89-108.
+{{% resource_link "248e53be-c4dd-42b7-bb59-1b3cbfad8d77" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krugman, Paul. {{% resource_link "248e53be-c4dd-42b7-bb59-1b3cbfad8d77" "*Development, Geography, and Economic Theory*" %}}. Cambridge, MA: The MIT Press, 1995. ISBN: 9780262112031. Read "Geography Lost and Found," pp. 31-65 and "Appendix," pp. 89-108.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262610865) Krugman, Paul. "Center and Periphery." Chapter 1 in *Geography and Trade*. Cambridge, MA: The MIT Press, 1992. ISBN:9780262610865.
+{{% resource_link "3d8e63e2-9dc5-4f07-95d0-ef671ea28fa0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krugman, Paul. "Center and Periphery." Chapter 1 in *Geography and Trade*. Cambridge, MA: The MIT Press, 1992. ISBN:9780262610865.
 
 Henderson, J. Vernon, Zmarak Shalizi, and Anthony J. Venables. "Geography and Development." *Journal of Economic Geography* 1 (2001): 81-106.
 
@@ -63,7 +63,7 @@ Henderson, J. Vernon, Zmarak Shalizi, and Anthony J. Venables. "Geography and De
 Background on equations and data preparation for the REMI model
 {{< tdclose >}}{{< tdopen >}}
 
-Treyz, Frederick, and George Treyz. "The Evaluation of Programs Aimed at Local and Regional Development: Methodology and Twenty Years' Experience Using Policy Insight." In [*Evaluating Local Economic and Employment Development: How to Assess What Works Among Programmes and Policies*](http://www.oecdbookshop.org/oecd/display.asp?lang=EN&sf1=identifiers&st1=842004031p1). Paris, France: OECD Publishing, 2004. ISBN: 9789264017085.
+Treyz, Frederick, and George Treyz. "The Evaluation of Programs Aimed at Local and Regional Development: Methodology and Twenty Years' Experience Using Policy Insight." In {{% resource_link "e20d3869-74b0-4b3b-8fc2-954fe1c865c5" "*Evaluating Local Economic and Employment Development: How to Assess What Works Among Programmes and Policies*" %}}. Paris, France: OECD Publishing, 2004. ISBN: 9789264017085.
 
 Lahr, Michael L., and Benjamin H. Stevens. "A Study of the Role of Regionalization in the Generation of Aggregation Error in Regional Input-output Models." *Journal of Regional Science* 42, no. 3 (2002): 477-507.
 
@@ -94,10 +94,10 @@ Dietzenbacher, Erik. "Interregional Multipliers: Looking Backward, Looking Forwa
 Stevens, Benjamin, and Michael Lahr. "Regional Economic Multipliers: Definition, Measurement, and Application." *Economic Development Quarterly* 2, no. 1 (1988): 88-96.
 
 Weisbrod, Glen E., and James Beckwith. "Measuring Economic Development Benefits for Highway Decision-making: The Wisconsin Case." *Transportation Quarterly* 46, no. 1 (1992): 57-79.   
-([PDF](http://www.edrgroup.com/images/stories/Transportation/wisconsin-hwy-tq.pdf))
+({{% resource_link "1011bee1-bf0e-4d12-8064-2d9c439077dd" "PDF" %}})
 
 Weisbrod, Glen. "Evolution of Methods for Assessing Economic Development Impacts of Proposed Transportation Projects." Paper presented at the 3rd International Conference on Transportation and Economic Development, PLACE, March 2006.   
-([PDF](http://www.edrgroup.com/images/stories/Transportation/weisbrod-evolution-of-methods-ted2006.pdf))
+({{% resource_link "bc40d4f7-9bd0-441c-ae8f-1f3ffcdfe5da" "PDF" %}})
 
 Isserman, Andrew, and Terance Rephann. "The Economic Effects of the Appalachian Regional Commission: An Empirical Assessment of 26 Years of Regional Development Planning." *Journal of the American Planning Association* 61, no. 3 (1995): 345-364.
 
@@ -107,7 +107,7 @@ Wilbur Smith Associates. "Appalachian Development Highways Economic Impact Studi
 
 Polenske, Karen R. "Current Uses of the RAS Technique: A Critical Review." In *Price, Growth, and Cycles*. Edited by Andras Brody, Andras Simonovits and Albert Steenge. London, England: Palgrave Macmillan, 1997, pp. 58-88. ISBN: 9780333641651.
 
-Weisbrod, Glen, and Burton Weisbrod. "Measuring Economic Impacts of Projects and Programs." Economic Development Research Group, Boston, MA, 1997. ([PDF](http://www.edrgroup.com/images/stories/Transportation/econ-impact-primer.pdf))
+Weisbrod, Glen, and Burton Weisbrod. "Measuring Economic Impacts of Projects and Programs." Economic Development Research Group, Boston, MA, 1997. ({{% resource_link "32fd44cd-f7f6-4217-9cf4-d3fb6adc8eca" "PDF" %}})
 
 Jensen, R. C., and G. R. West. "The Effect of Relative Coefficient Size on Input-Output Multipliers." *Environment and Planning A* 12, no. 8 (1980): 927-936.
 
@@ -144,7 +144,7 @@ Treyz, George I. *Regional Economic Modeling: A Systematic Approach to Economic 
 Wallsten, Scott J. "An Empirical Test of Geographic Knowledge Spillovers Using Geographic Information Systems and Firm-level Data." *Regional Science and Urban Economics* 31, no. 5 (2001): 571-599.
 
 Anselin, Luc, Ibnu Syabri, and Youngihn Kho. "GeoDa: An Introduction to Spatial Data Analysis." Working paper, Spatial Analysis Laboratory, University of Illinois, Urbana-Champaign, 2004.   
-([PDF](http://geodacenter.asu.edu/pdf/geodaGA.pdf))
+({{% resource_link "32e30816-762a-4faf-aa45-8eb73f07305e" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -198,7 +198,7 @@ Horan, Cynthia, and Andrew E. G. Jonas. 1998. "Governing Massachusetts: Uneven D
 
 {{< tdclose >}}{{< tdopen >}}
 
-Fogg, Neeta, Paul Harrington, and Thomas Kochan. "The State of Working Families in Massachusetts." MIT Sloan Working Paper 4473-04, January 2004. [Work-Family Council Initiative Working Paper No. 0001](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=511262).
+Fogg, Neeta, Paul Harrington, and Thomas Kochan. "The State of Working Families in Massachusetts." MIT Sloan Working Paper 4473-04, January 2004. {{% resource_link "1797d898-b8ae-4cbe-bbd4-88d8dc1a3a77" "Work-Family Council Initiative Working Paper No. 0001" %}}.
 
 Readings related to the client's interests will be made available during the semester.
 
@@ -219,7 +219,7 @@ Treyz, George I. *Regional Economic Modeling: A Systematic Approach to Economic 
 {{< tdclose >}}{{< tdopen >}}
 Use of regional models in policy analyses
 {{< tdclose >}}{{< tdopen >}}
-Kats, Greg, et al. "The Costs and Financial Benefits of Green Buildings: A Report to California's Sustainable Building Task Force." Washington, DC: Capital E, 2003. ([PDF - 3.1MB](https://noharm-uscanada.org/documents/costs-and-financial-benefits-green-buildings-report-california%E2%80%99s-sustainable-building-task))
+Kats, Greg, et al. "The Costs and Financial Benefits of Green Buildings: A Report to California's Sustainable Building Task Force." Washington, DC: Capital E, 2003. ({{% resource_link "8af7db18-1ce8-40c9-9ad8-e5c13011ecb4" "PDF - 3.1MB" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
