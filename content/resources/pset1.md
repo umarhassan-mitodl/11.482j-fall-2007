@@ -5,6 +5,8 @@ description: Problem set on simulation in regional and urban economics, and econ
 file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/28de2fd2aed03d7d6d0e9554ff99034b_pset1.pdf
 file_size: 69855
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
