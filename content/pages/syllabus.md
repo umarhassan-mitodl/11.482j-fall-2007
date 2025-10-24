@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides a description of the seminar along with
   information on meeting times, grading, and suggested texts.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

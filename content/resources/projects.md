@@ -5,8 +5,6 @@ description: A list of proposed projects on regional socioeconomic impact analys
 file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/d0b3981365bb0176c33c35a4e77859e8_projects.pdf
 file_size: 70132
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
